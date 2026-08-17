@@ -100,4 +100,5 @@ Use Lean when the map is full of waits and rework. Use DMAIC when leadership arg
 - Name the waste; put time on arrows; define the defect before you write stories.
 - DMAIC Control is how you avoid “we went live and stopped looking.”
 - Software is one Improve lever; checklist, SLA, and intake channel are others.
+- Watch: [fishbone / Ishikawa](https://www.youtube.com/watch?v=itpF2Yknjwk). More lectures: [roadmap.md](../roadmap.md#youtube-lectures-curated).
 - 

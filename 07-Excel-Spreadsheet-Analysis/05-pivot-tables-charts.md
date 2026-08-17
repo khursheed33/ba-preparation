@@ -119,3 +119,4 @@ The BA does not say "motor is slow because of fraud". She says "Paid motor TAT i
 - If the PO changes "GMV" definition, the pivot is wrong until the column is wrong.
 - Slicers on two pivots: use Report Connections so month filters both.
 - Export values via Paste Special → Values if you must freeze a board pack.
+- Watch: [Kevin Stratvert pivot tables](https://www.youtube.com/watch?v=m0wI61ahfLc) then [Leila Gharani Power Query](https://www.youtube.com/watch?v=6lBqYInBldk).

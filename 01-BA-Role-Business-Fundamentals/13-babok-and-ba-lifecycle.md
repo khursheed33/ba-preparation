@@ -104,4 +104,5 @@ Certifications are optional in this syllabus. The lifecycle is not.
 - Six knowledge areas are coverage, not a waterfall phase list.
 - Lifecycle ends at **evaluate**, not at sign-off.
 - Use this file as the index; do the practice in the numbered folders that follow.
+- Watch: [BABOK Plan BA Approach](https://www.youtube.com/watch?v=do3pQkzaLxc) then [planning KA with case study](https://www.youtube.com/watch?v=2bzc9vJJsSU). Full list: [roadmap.md](../roadmap.md#youtube-lectures-curated).
 - 

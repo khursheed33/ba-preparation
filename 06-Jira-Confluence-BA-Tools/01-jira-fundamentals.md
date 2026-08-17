@@ -107,3 +107,4 @@ ShopEase Ops wants "faster returns". The BA does not create one giant task. Afte
 - If the PO and BA disagree on rank, record both views in a comment and let the PO decide.
 - Subtasks do not replace stories; they organise execution inside a story.
 - Review your own tickets before standup so you are not the blocker.
+- Watch: [Atlassian Introduction to Jira](https://www.youtube.com/watch?v=obf7h7lSHsA) and [Edureka Jira beginners](https://www.youtube.com/watch?v=1RilyCsxp7U).

@@ -86,3 +86,4 @@ Everything is "the sprint." Bugs wait; features thrash. Or everything is Kanban 
 - Cycle time on Kanban is a BA metric for "how long until this defect is live."
 - Do not copy Scrum roles onto a Kanban ops team unless the org wants them.
 - Small changes still need AC: expected result after the fix.
+- Watch: [Scrum in under 10 minutes](https://www.youtube.com/watch?v=XU0llRltyFM) and [Kniberg product ownership](https://www.youtube.com/watch?v=502ILHjX9EE).

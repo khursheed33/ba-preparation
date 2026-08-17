@@ -163,4 +163,5 @@ Do not treat all stakeholders the same. A CEO needs outcomes and risks. A user n
 - Revisit the map after every major scope change.
 - RACI: one A per task; R does the work; C before, I after.
 - Communication plan: audience × message × channel × cadence — not one weekly deck for everyone.
+- Watch: [RACI explained](https://www.youtube.com/watch?v=1U2gngDxFkc) and [RACI walk-through](https://www.youtube.com/watch?v=TdQQdIF5z8E).
 - 

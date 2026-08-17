@@ -102,3 +102,4 @@ A single "returns" story ships a buyer form only. Sellers never see disputes. Su
 - One story per actor-job; shared rules belong in AC or a rule catalog, not in a mega story.
 - Tasks (create table, add endpoint) live under the story; they are not the story.
 - Rewrite "the system shall" into As a / I want / So that before sprint planning.
+- Watch: [Agile user stories](https://www.youtube.com/watch?v=apOvF9NVguA), [Jeff Patton story mapping](https://www.youtube.com/watch?v=5R1z8POfvgQ), [Given/When/Then](https://www.youtube.com/watch?v=rvgMVcxrV4U).

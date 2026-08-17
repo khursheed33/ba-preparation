@@ -101,4 +101,5 @@ If the To-Be still allows the old side channel, the organisation has not changed
 - ROI/payback are BA-defendable; NPV stays with Finance.
 - Org structure tells you who is A vs who is loud.
 - Organisational change is transition requirements plus retired old paths — not a kickoff speech.
+- Watch: [SWOT](https://www.youtube.com/watch?v=sGrmUvxVrjc), [PESTEL](https://www.youtube.com/watch?v=bYn4CyL3r5w), and [Kniberg product ownership](https://www.youtube.com/watch?v=502ILHjX9EE) for the why / who / value layer of a case.
 - 

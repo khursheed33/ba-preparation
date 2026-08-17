@@ -24,6 +24,115 @@ Extra preparation (not in the 13): AI `14`, portfolio `15`, resume `16`, intervi
 
 ---
 
+## YouTube lectures (curated)
+
+Watch **after** the matching notes, not instead of them. These are well-known educational lectures (official vendors, IIBA-aligned trainers, or high-view explainers). Titles can move; if a link 404s, search the title on YouTube.
+
+### 1. BA fundamentals & BABOK
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| IIBA BABOK — Plan Business Analysis Approach | Knowledge Area 1 (planning & monitoring) with predictive vs adaptive | [youtube.com/watch?v=do3pQkzaLxc](https://www.youtube.com/watch?v=do3pQkzaLxc) |
+| Techcanvass — BA planning & monitoring (case study) | Same KA with a worked case | [youtube.com/watch?v=2bzc9vJJsSU](https://www.youtube.com/watch?v=2bzc9vJJsSU) |
+| Tampa Bay IIBA — CBAP / BABOK study group | Chapter study culture; how to read BABOK for exams | [youtube.com/watch?v=u-REAVZHyPk](https://www.youtube.com/watch?v=u-REAVZHyPk) |
+| Techcanvass — Technical BA (SQL, APIs, architecture) | What an IT / technical BA actually touches | [youtube.com/watch?v=aBHNHOJbWn8](https://www.youtube.com/watch?v=aBHNHOJbWn8) |
+
+### 2. Requirements engineering
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| Requirements elicitation techniques (Part 1) | Interviews, focus groups, document analysis, observation | [youtube.com/watch?v=kCJFBmAAvV4](https://www.youtube.com/watch?v=kCJFBmAAvV4) |
+| Elicitation techniques BAs must know | Workshops, prototyping, surveys, benchmarking | [youtube.com/watch?v=5mOWetBBNSI](https://www.youtube.com/watch?v=5mOWetBBNSI) |
+| Given / When / Then for stories | Acceptance criteria as scenarios | [youtube.com/watch?v=rvgMVcxrV4U](https://www.youtube.com/watch?v=rvgMVcxrV4U) |
+| Atlassian — user stories in Confluence & Jira | Story + AC template used on real boards | [youtube.com/watch?v=sYfTGk2499c](https://www.youtube.com/watch?v=sYfTGk2499c) |
+
+### 3. Stakeholder management
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| RACI explained (widely viewed explainer) | One A per task; gaps and overlaps | [youtube.com/watch?v=1U2gngDxFkc](https://www.youtube.com/watch?v=1U2gngDxFkc) |
+| The RACI matrix | Walk-through of R / A / C / I on a project | [youtube.com/watch?v=TdQQdIF5z8E](https://www.youtube.com/watch?v=TdQQdIF5z8E) |
+
+### 4. Business process management
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| Lucidchart — BPMN 2.0 tutorial (~430k views) | Events, gateways, pools, swimlanes | [youtube.com/watch?v=BwkNceoybvA](https://www.youtube.com/watch?v=BwkNceoybvA) |
+| Lucid Training Labs — BPMN diagram tutorial | Build a diagram from scratch | [youtube.com/watch?v=6Juh83sxKkQ](https://www.youtube.com/watch?v=6Juh83sxKkQ) |
+| Business Analysis Doctor — BPMN process map + example | Loan-style case; rules and best practices | [youtube.com/watch?v=BFeHAONDDtw](https://www.youtube.com/watch?v=BFeHAONDDtw) |
+| BPMN for BAs (order fulfilment in Lucidchart) | BA lens: bottlenecks, not pretty boxes | [youtube.com/watch?v=dTsKRcNCrGQ](https://www.youtube.com/watch?v=dTsKRcNCrGQ) |
+
+### 5. Analysis techniques
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| SWOT analysis explained | Four quadrants → then act (not a poster) | [youtube.com/watch?v=sGrmUvxVrjc](https://www.youtube.com/watch?v=sGrmUvxVrjc) |
+| Business To You — PESTEL analysis | Macro environment for strategy / BRD constraints | [youtube.com/watch?v=bYn4CyL3r5w](https://www.youtube.com/watch?v=bYn4CyL3r5w) |
+| CIPD — PESTLE analysis | Short professional definition of the six factors | [youtube.com/watch?v=GFVKKTwkANY](https://www.youtube.com/watch?v=GFVKKTwkANY) |
+| Ishikawa / fishbone diagram | Root-cause workshop structure | [youtube.com/watch?v=itpF2Yknjwk](https://www.youtube.com/watch?v=itpF2Yknjwk) |
+
+### 6. Solution assessment & design
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| Lucidchart — ERD tutorial Part 1 (~3.4M views) | Entities, attributes, cardinality | [youtube.com/watch?v=QpdhBUYk7Kk](https://www.youtube.com/watch?v=QpdhBUYk7Kk) |
+| How to create an ERD in Lucidchart | Tool walkthrough after the concept video | [youtube.com/watch?v=RBZtPhZkUZM](https://www.youtube.com/watch?v=RBZtPhZkUZM) |
+| Figma tutorial for beginners (13-min crash course) | Enough UI for BA wireframes | [youtube.com/watch?v=jQ1sfKIl50E](https://www.youtube.com/watch?v=jQ1sfKIl50E) |
+| Figma prototype for user testing | Click-through before UAT / design review | [youtube.com/watch?v=p4vNocXYASY](https://www.youtube.com/watch?v=p4vNocXYASY) |
+
+### 7. Project & delivery methodologies
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| Henrik Kniberg — Agile product ownership in a nutshell (~4.8M views) | Backlog, value vs size, WIP — BA/PO overlap | [youtube.com/watch?v=502ILHjX9EE](https://www.youtube.com/watch?v=502ILHjX9EE) |
+| Intro to Scrum in under 10 minutes | Roles, backlog, sprint, burndown | [youtube.com/watch?v=XU0llRltyFM](https://www.youtube.com/watch?v=XU0llRltyFM) |
+| Agile user stories | User perspective vs implementation | [youtube.com/watch?v=apOvF9NVguA](https://www.youtube.com/watch?v=apOvF9NVguA) |
+| Jeff Patton — user stories & story mapping | Why stories exist; map vs backlog list | [youtube.com/watch?v=5R1z8POfvgQ](https://www.youtube.com/watch?v=5R1z8POfvgQ) |
+| User story mapping tutorial | How to build and read a map | [youtube.com/watch?v=uj3PlPDAlHU](https://www.youtube.com/watch?v=uj3PlPDAlHU) |
+
+### 8. Documentation & tools
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| Atlassian — Introduction to Jira | Official: plan, track, collaborate | [youtube.com/watch?v=obf7h7lSHsA](https://www.youtube.com/watch?v=obf7h7lSHsA) |
+| Edureka — Jira tutorial for beginners | Epic → story → sprint → board (hands-on) | [youtube.com/watch?v=1RilyCsxp7U](https://www.youtube.com/watch?v=1RilyCsxp7U) |
+| Atlassian — creating user stories with Confluence & Jira | Templates + Given/When/Then on the issue | [youtube.com/watch?v=sYfTGk2499c](https://www.youtube.com/watch?v=sYfTGk2499c) |
+
+### 9. Data analysis (Excel, SQL, Power BI)
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| Kevin Stratvert — Excel pivot tables | Microsoft-style walkthrough (ex-Microsoft trainer) | [youtube.com/watch?v=m0wI61ahfLc](https://www.youtube.com/watch?v=m0wI61ahfLc) |
+| Leila Gharani — Power Query will change how you use Excel (~2.1M views) | Get & Transform for BA data cleaning | [youtube.com/watch?v=6lBqYInBldk](https://www.youtube.com/watch?v=6lBqYInBldk) |
+| Leila Gharani — Power Query (follow-along files) | Clean, combine CSVs, unpivot | [youtube.com/watch?v=x7mzOYEn0XA](https://www.youtube.com/watch?v=x7mzOYEn0XA) |
+| SQL tutorial for beginners (free tools) | SELECT through reporting; aimed at analysts | [youtube.com/watch?v=h0nxCDiD-zg](https://www.youtube.com/watch?v=h0nxCDiD-zg) |
+| How BAs use SQL in real projects | UAT validation, joins, GROUP BY | [youtube.com/watch?v=94CfbgY8De4](https://www.youtube.com/watch?v=94CfbgY8De4) |
+| Answer real business questions with SQL | Metrics from a cleaned orders table | [youtube.com/watch?v=RE2nulT4-qk](https://www.youtube.com/watch?v=RE2nulT4-qk) |
+| Leila Gharani — Power BI first dashboard (~2.9M views) | Import, model, slicers, KPI visual, publish | [youtube.com/watch?v=c7LrqSxjJQQ](https://www.youtube.com/watch?v=c7LrqSxjJQQ) |
+
+### 10. Testing & UAT
+
+No single “best UAT lecture” dominates YouTube the way Kniberg or Lucidchart ERD do. Use folder `10` plus:
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| Jira for QA — issues, boards, burndown | Defect lifecycle as it shows up in Jira | [youtube.com/watch?v=xhgdzhkB5QU](https://www.youtube.com/watch?v=xhgdzhkB5QU) |
+| Fishbone (above) | Root cause when UAT fails for “no reason” | [youtube.com/watch?v=itpF2Yknjwk](https://www.youtube.com/watch?v=itpF2Yknjwk) |
+
+### 11–13. Domain, soft skills, business acumen
+
+Domain lectures are industry-specific (use folder `11` / `18`). For analysis-into-a-case:
+
+| Lecture | Why watch | Link |
+|---|---|---|
+| SWOT + PESTLE (above) | Feeds the business case “why now” | — |
+| RACI (above) | Org structure and who can sign | — |
+| Kniberg product ownership (above) | Value, stakeholders, backlog as change | — |
+
+Channels worth browsing (not one video): [IIBA](https://www.youtube.com/@IIBA), [Atlassian](https://www.youtube.com/@Atlassian), [Lucid Software](https://www.youtube.com/@lucidchart), [Leila Gharani](https://www.youtube.com/@LeilaGharani), [The Business Analysis Doctor](https://www.youtube.com/@TheBusinessAnalysisDoctor).
+
+---
+
 ### Phase 1 — Understand the BA Role & Business Fundamentals
 
 **Week 1**

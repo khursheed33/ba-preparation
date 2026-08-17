@@ -119,3 +119,4 @@ AND vs XOR confused: restaurant notified even when payment fails. DFD never draw
 - Name every flow; arrows without nouns are decoration.
 - Validate models with an exception walkthrough, not only the happy AND-split.
 - Pair DFDs with an [ERD](13-entity-relationship-diagrams.md): stores should match entities.
+- Watch: [Lucidchart BPMN 2.0](https://www.youtube.com/watch?v=BwkNceoybvA) and [Lucidchart ERD](https://www.youtube.com/watch?v=QpdhBUYk7Kk).

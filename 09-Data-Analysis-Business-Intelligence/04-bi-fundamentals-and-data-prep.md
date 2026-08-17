@@ -124,3 +124,4 @@ dim_product        dim_channel  (optional)
 - Import without a dictionary produces debate, not insight.
 - Transformation rules are requirements (status maps, test-order filters).
 - Always reconcile a dashboard KPI to the source system of record.
+- Watch: [Power BI first dashboard (Leila Gharani)](https://www.youtube.com/watch?v=c7LrqSxjJQQ). Excel path: [pivot tables](https://www.youtube.com/watch?v=m0wI61ahfLc) then [Power Query](https://www.youtube.com/watch?v=6lBqYInBldk).

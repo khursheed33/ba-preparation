@@ -125,3 +125,4 @@ ShopEase finance says some returns have no order. The BA asks for the ER. `retur
 - Entry-level BA: you do not need DBA depth; you need keys, grain, and relationships.
 - Draw the five ShopEase boxes on paper before writing a JOIN.
 - If two teams disagree on "order", they disagree on the PK table.
+- Watch: [SQL for beginners](https://www.youtube.com/watch?v=h0nxCDiD-zg) and [how BAs use SQL](https://www.youtube.com/watch?v=94CfbgY8De4). ERD lecture: [Lucidchart ERD](https://www.youtube.com/watch?v=QpdhBUYk7Kk).

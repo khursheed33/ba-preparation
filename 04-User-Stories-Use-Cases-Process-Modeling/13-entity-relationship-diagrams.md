@@ -112,4 +112,5 @@ Use ERD in data workshops with finance and ops. Use DFD when integrations are th
 - Conceptual/logical ERD is BA work; physical ERD is not.
 - If two teams disagree on a word (order, appointment, claim), they disagree on an entity — draw it.
 - Cross-check DFD stores against ERD entities; a store with no entity is a gap.
+- Watch: [Lucidchart ERD Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk) (~3.4M views), then [create an ERD in Lucidchart](https://www.youtube.com/watch?v=RBZtPhZkUZM).
 - 

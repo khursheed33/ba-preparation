@@ -4,7 +4,7 @@ A topic-focused **Business Analyst (BA)** study repo: role, requirements, docume
 
 It is written for someone preparing for a **vendor BA** role in a **service-based IT organisation** (including accounts that use **Generative AI**). Teaching companies (ShopEase, NovaBank, MediCare+, ApexCare, Nimbus Digital, and others) are **illustrative**. They are not real employers.
 
-**Syllabus map:** [roadmap.md](roadmap.md) (includes a 13-competency map onto folders `01`–`18`).
+**Syllabus map:** [roadmap.md](roadmap.md) (competency map, study phases, and [YouTube lectures](roadmap.md#youtube-lectures-curated)).
 
 ---
 

@@ -100,3 +100,4 @@ A portal is built that still emails the doc team a ZIP. Queue stays 4 days. Lead
 - Improvement without a To-Be owner fails; name who verifies completeness.
 - Software is one lever; checklist and SLA are others.
 - Named wastes and DMAIC: [Lean and Six Sigma basics](12-lean-six-sigma-basics.md).
+- Watch BPMN: [Lucidchart BPMN 2.0](https://www.youtube.com/watch?v=BwkNceoybvA) and [BA Doctor process map](https://www.youtube.com/watch?v=BFeHAONDDtw).

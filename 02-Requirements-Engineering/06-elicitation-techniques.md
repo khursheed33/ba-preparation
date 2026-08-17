@@ -148,4 +148,5 @@ For each technique: **when**, **how**, **example**, **pitfall**. Then a comparis
 
 ## Notes
 
-- 
+- Combine techniques: interview for intent, observation for truth, data for volume, workshop for the decision.
+- Watch: [elicitation techniques Part 1](https://www.youtube.com/watch?v=kCJFBmAAvV4) and [techniques BAs must know](https://www.youtube.com/watch?v=5mOWetBBNSI). 

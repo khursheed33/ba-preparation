@@ -108,3 +108,4 @@ If you can paste the same SWOT onto EmployeeHub, TripNest, and NovaBank, it is u
 - Name the company, the metric, the regulator, or the competitor in every cell.
 - Translate each factor to one BRD object (objective, constraint, assumption, risk, NFR).
 - Grocery SWOT without cold chain and SLA is incomplete. Digital lending PESTLE without RBI is incomplete.
+- Watch: [SWOT explained](https://www.youtube.com/watch?v=sGrmUvxVrjc) and [PESTEL (Business To You)](https://www.youtube.com/watch?v=bYn4CyL3r5w).
