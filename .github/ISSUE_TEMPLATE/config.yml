@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How to study this repo
+    url: https://github.com/khursheed33/ba-preparation/blob/main/README.md
+    about: Start with README.md, then folders in number order.
+  - name: Healthcare pack sequence
+    url: https://github.com/khursheed33/ba-preparation/blob/main/18-Health-Domain-Research/00-how-to-use-this-pack.md
+    about: Pass the foundation gate before problems and use cases.

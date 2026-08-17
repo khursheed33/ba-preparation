@@ -1,0 +1,32 @@
+name: Content fix
+description: Typo, wrong expansion, broken sequence, or factual correction in a study note
+title: "[Fix] "
+labels: ["content"]
+body:
+  - type: markdown
+    attributes:
+      value: Practice cases stay fictional. Do not attach real hospital or bank documents.
+  - type: input
+    id: path
+    attributes:
+      label: File path
+      placeholder: 18-Health-Domain-Research/02-abbreviations-and-full-names.md
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What it says now
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public source (if this is a fact change)
+      placeholder: NHA / ICRA / file already in the repo

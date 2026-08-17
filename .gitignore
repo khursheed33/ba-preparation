@@ -1,0 +1,51 @@
+# Git ignore — BA study repo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.code-workspace
+
+# Office lock / temp
+~$*
+*.tmp
+*.temp
+*.bak
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials.json
+secrets.json
+
+# Never commit real extracts (use sample_ prefix if you add fake CSVs)
+*patient*.csv
+*uhid*.csv
+*phi*.csv
+*production*.xlsx
+
+# Python / notebooks (if added later)
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node (if a site is added later)
+node_modules/
+dist/
+
+# Logs
+*.log
+npm-debug.log*

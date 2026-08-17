@@ -1,0 +1,46 @@
+name: Study question
+description: Ask about a topic, abbreviation, or how to read a folder
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: Do not paste client BRDs, patient data, or secrets.
+  - type: dropdown
+    id: folder
+    attributes:
+      label: Folder
+      options:
+        - 01 BA role
+        - 02 Requirements
+        - 03 Documentation
+        - 04 Stories and process
+        - 05 Agile
+        - 06 Jira / Confluence
+        - 07 Excel
+        - 08 SQL
+        - 09 BI
+        - 10 UAT
+        - 11 Domain
+        - 12 Techniques
+        - 13 Case studies
+        - 14 AI for BAs
+        - 15 Portfolio
+        - 16 Resume / LinkedIn
+        - 17 Interviews
+        - 18 Health domain
+        - Repo / GitHub files
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: File name (if known)
+      placeholder: 02-abbreviations-and-full-names.md
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      placeholder: What is the difference between HIS and EMR?
+    validations:
+      required: true
