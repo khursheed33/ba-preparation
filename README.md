@@ -2,7 +2,9 @@
 
 A topic-focused **Business Analyst (BA)** study repo: role, requirements, documentation, Agile, tools, SQL, domains, case studies, AI literacy, portfolio, and interviews.
 
-It is written for someone preparing for a **vendor BA** role in a **service-based IT organisation** (including accounts that use **Generative AI**). Teaching companies (ShopEase, NovaBank, MediCare+, ApexCare, Nimbus Digital, and others) are **illustrative**. They are not real employers.
+**Seat it prepares for:** you are employed by a **technology / IT services company**. Most **clients** will be in **healthcare**. Method is taught first (BA language, requirements, delivery). Healthcare vocabulary is folder [18](18-Health-Domain-Research) — after the BA glossary, not instead of it.
+
+Teaching companies (ShopEase, NovaBank, MediCare+, ApexCare, Nimbus Digital, and others) are **illustrative**. They are not real employers. ShopEase / NovaBank train the *method*; health accounts train the *client language*.
 
 **Syllabus map:** [roadmap.md](roadmap.md) (competency map, study phases, and [YouTube lectures](roadmap.md#youtube-lectures-curated)).
 
@@ -11,8 +13,8 @@ It is written for someone preparing for a **vendor BA** role in a **service-base
 ## How to use this repo
 
 1. Follow folders **in number order** (`01` → `18`). Sequence matters.
-2. Inside a folder, read files in number order.
-3. For healthcare depth, start at [18-Health-Domain-Research/00-how-to-use-this-pack.md](18-Health-Domain-Research/00-how-to-use-this-pack.md) and **pass the gate** before problems or solution use cases.
+2. Inside a folder, read files in number order. Folder `01` starts at [`00-ba-and-business-abbreviations.md`](01-BA-Role-Business-Fundamentals/00-ba-and-business-abbreviations.md) — **BRD, FRD, SRS, SOW, RTM, UAT** and the rest **before** any use case.
+3. For healthcare client depth, start at [18-Health-Domain-Research/00-how-to-use-this-pack.md](18-Health-Domain-Research/00-how-to-use-this-pack.md) and **pass the gate** before problems or solution use cases. That pack’s abbreviation file is **clinical / HIS language**, not the BA dictionary.
 4. Case studies are **practice packs**. Label metrics illustrative. Do not claim you delivered them at a named hospital or bank.
 
 ---
@@ -21,7 +23,7 @@ It is written for someone preparing for a **vendor BA** role in a **service-base
 
 | Folder | What you learn |
 |---|---|
-| [01-BA-Role-Business-Fundamentals](01-BA-Role-Business-Fundamentals) | What a BA does, BABOK, lifecycle, types, stakeholders, RACI |
+| [01-BA-Role-Business-Fundamentals](01-BA-Role-Business-Fundamentals) | BA glossary (BRD, SOW, …), role, BABOK, stakeholders, RACI |
 | [02-Requirements-Engineering](02-Requirements-Engineering) | Elicitation, types, quality, conflicts, sign-off |
 | [03-BA-Documentation](03-BA-Documentation) | BRD, FRD, SRS, numbering, RTM, UAT docs |
 | [04-User-Stories-Use-Cases-Process-Modeling](04-User-Stories-Use-Cases-Process-Modeling) | Stories, BPMN, UML, ERD, Lean / Six Sigma |

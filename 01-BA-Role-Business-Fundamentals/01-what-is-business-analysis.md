@@ -1,5 +1,7 @@
 # What is Business Analysis?
 
+Read [00-ba-and-business-abbreviations.md](00-ba-and-business-abbreviations.md) first. This file uses **BA**, **BRD**, and **stakeholder** as already defined.
+
 ## Definition
 
 Business Analysis is the practice of enabling change in an organization by defining needs and recommending solutions that deliver value to stakeholders.

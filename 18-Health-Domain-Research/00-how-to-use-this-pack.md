@@ -2,7 +2,9 @@
 
 Sequence matters. She must **finish the foundation** (who she is, language, domain, systems, Gen AI rules) **before** companies-as-problems, research drills, or solution use cases. Opening ApexCare on day 1 produces fluent jargon with no HIS vs EMR.
 
-This pack is for a **vendor Business Analyst (BA)** in a **service-based IT firm** that also sells **Generative AI (Gen AI)**. Teaching firm: **Nimbus Digital** (illustrative). She is not on the hospital payroll.
+This pack is for a **vendor Business Analyst (BA)** in a **technology / IT services firm** whose **clients are mostly healthcare**, and that also sells **Generative AI (Gen AI)**. Teaching firm: **Nimbus Digital** (illustrative). She is not on the hospital payroll.
+
+**Before this pack:** finish [01-BA-Role-Business-Fundamentals/00-ba-and-business-abbreviations.md](../01-BA-Role-Business-Fundamentals/00-ba-and-business-abbreviations.md) (BRD, FRD, SRS, SOW, RTM, UAT, and the rest). File `02` in *this* folder is **clinical and HIS language**, not a second BA glossary.
 
 Craft primers (read later, not instead of this sequence): `11-Domain-Business-Knowledge/04-healthcare.md`, `13-Real-World-BA-Projects/04-healthcare-case-study.md`, `14-AI-for-Business-Analysts`.
 
@@ -29,7 +31,7 @@ Do these **in number order**. Each file assumes the one before it.
 | # | File | She is done when she can |
 |---|---|---|
 | 01 | `01-ba-in-service-organization.md` | Explain vendor BA vs client BA; Statement of Work (SOW); change request (CR); onsite vs offshore |
-| 02 | `02-abbreviations-and-full-names.md` | Expand the 40 shorts in drill L; first mention = full name (SHORT) |
+| 02 | `02-abbreviations-and-full-names.md` | Expand the **health** shorts in drill L (OPD, HIS, TAT, …). BA shorts already learned in folder `01` file `00` |
 | 03 | `03-health-domain-landscape.md` | Name the four processes: access, chart, money, privacy; say the grain (slot vs sample vs claim vs person) |
 | 04 | `04-glossary-kpis-regulations.md` | Define occupancy, ARPOB, TAT *with a clock*; DPDP vs NABH vs NABL |
 | 05 | `05-tools-and-software.md` | Say what HIS, EMR, LIS, RIS, PACS, RCM are **master for**; Jira is not the hospital |

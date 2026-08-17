@@ -1,11 +1,15 @@
-# Abbreviations, Short Names, and Full Names (Study List)
+# Abbreviations, Short Names, and Full Names (Health Domain)
 
 > **Sequence: Phase 1, file 02 of 06.** After `01-ba-in-service-organization.md`.  
 > **Next:** `03-health-domain-landscape.md`. Return here 10 minutes every study day. Do not skip to problems (`08`) until drill L is passable.
 
+This file is **healthcare / hospital / payer language**. It is **not** the BA dictionary.
+
+**BA and delivery shorts** (Business Requirements Document (BRD), Functional Requirements Document (FRD), Software Requirements Specification (SRS), Statement of Work (SOW), Requirements Traceability Matrix (RTM), User Acceptance Testing (UAT), Responsible-Accountable-Consulted-Informed (RACI), Change Request (CR) as *scope change*) live in [01-BA-Role-Business-Fundamentals/00-ba-and-business-abbreviations.md](../01-BA-Role-Business-Fundamentals/00-ba-and-business-abbreviations.md). Learn that file **first**.
+
 Memorise **short → full name → one-line meaning**. In a client call, say the full name once, then the short name.
 
-This file is the **study dictionary**. KPIs and regulations stay in `04-glossary-kpis-regulations.md`.
+This file is the **clinical/systems study dictionary**. KPIs and regulations stay in `04-glossary-kpis-regulations.md`.
 
 **How to study:** cover the Short column, say the full name aloud, then the meaning. Do one section per day.
 
@@ -297,9 +301,11 @@ First mention in a document: `Hospital Information System (HIS)`. After that: HI
 
 ---
 
-## G. BA, Agile, and service-company delivery
+## G. BA and delivery — recap (already learned in folder 01)
 
-You will live in this vocabulary as much as in HIS.
+**Do this section last.** The canonical BA dictionary is [00-ba-and-business-abbreviations.md](../01-BA-Role-Business-Fundamentals/00-ba-and-business-abbreviations.md) (BRD, FRD, SRS, SOW, RTM, UAT, RACI, …). This table is a **recap on a health account**, plus a few services-firm extras (orals, bench, utilisation).
+
+Health-only: HIM. Collision: CR = Change Request **or** Computed Radiography — expand once.
 
 | Short | Full name | Meaning |
 |---|---|---|
@@ -484,7 +490,7 @@ You will live in this vocabulary as much as in HIS.
 3. RCM, TPA, NHCX, AR, ARPOB  
 4. HL7, FHIR, DICOM, ICD, SNOMED  
 5. NABH, NABL, DPDP, DPO, PHI  
-6. BRD, FRD, RTM, UAT, SOW  
+6. BRD, FRD, RTM, UAT, SOW *(recap from folder `01` file `00` — fail this line if you skipped the BA glossary)*  
 7. LLM, RAG, HITL, OCR, IDP  
 8. OPD, IPD, OT, ICU, ALOS  
 

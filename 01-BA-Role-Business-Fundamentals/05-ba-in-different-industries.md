@@ -2,6 +2,8 @@
 
 A BA's core skills stay the same. The **domain language, processes, regulations, and systems** change by industry.
 
+**Your likely seat:** a **tech / IT services** employer; **healthcare** as the usual client. Learn BA words in [00-ba-and-business-abbreviations.md](00-ba-and-business-abbreviations.md) first. Learn hospital words in folder `18`. ShopEase and NovaBank below are **method practice**, not your expected payroll.
+
 ## Why industry knowledge matters
 
 Stakeholders speak in domain terms. If you do not understand those terms, you cannot write good requirements.
@@ -85,5 +87,6 @@ Pick **one domain first**. Learn its language well. You can switch domains later
 
 - Method travels; vocabulary and regulation do not. Study one domain’s happy path and exceptions.
 - Interviewers test whether you ask about compliance early.
-- Use ShopEase, NovaBank, and MediCare+ as your three “I have seen a process” stories even as a fresher.
+- Use ShopEase and NovaBank to *practise method*; use MediCare+ / folder `18` to *practise the client domain you will actually sit on*.
+- BA shorts (SOW, BRD, UAT) are not domain shorts (OPD, HIS). Do not mix the two dictionaries.
 - 

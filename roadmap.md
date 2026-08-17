@@ -137,6 +137,7 @@ Channels worth browsing (not one video): [IIBA](https://www.youtube.com/@IIBA), 
 
 **Week 1**
 
+* BA and business abbreviations (BRD, FRD, SRS, SOW, RTM, UAT, RACI, SLA, …)
 * What is Business Analysis?
 * What does a Business Analyst do?
 * BA responsibilities
